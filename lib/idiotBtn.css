@@ -7,6 +7,7 @@ body, html {
 
 }
 
+
 #idiotBtn {
 	height: 200px;
 	width: 200px;
@@ -44,7 +45,7 @@ body, html {
 h1 {
 	display: flex;
 	align-items: center;
-	width: 70%;
+	width: 80%;
 	margin: 8% auto 0;
 	font-weight: 400;
 	font-size: 2rem;
