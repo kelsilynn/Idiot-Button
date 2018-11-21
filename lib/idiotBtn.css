@@ -79,10 +79,14 @@ h1 {
 	#dwightPic {
 		max-width: 70px;
 	}
+
+	#idiotBtn {
+		text-align: center;
+	}
 }
 
 @media only screen and (max-width: 570px) {
-		h1 {
+	h1 {
 		margin: 25% 1% 0;
 		font-size: 1.1rem;
 	}
