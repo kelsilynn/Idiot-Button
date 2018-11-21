@@ -38,6 +38,11 @@ body, html {
 	cursor: pointer;
 }
 
+#idiotBtn div {
+	width: 100%;
+	text-align: center;
+}
+
 #dwightPic {
 	margin-right: 2%;
 	width: 100%;
@@ -78,10 +83,6 @@ h1 {
 
 	#dwightPic {
 		max-width: 70px;
-	}
-
-	#idiotBtn {
-		text-align: center;
 	}
 }
 
