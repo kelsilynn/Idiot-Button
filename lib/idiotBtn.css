@@ -7,11 +7,11 @@ body, html {
 
 }
 
-
 #idiotBtn {
 	height: 200px;
 	width: 200px;
 	border: 1px solid #000;
+	text-align: center;
 	border-radius: 50%;
 	background: #CE3527;
 	font-size: 3.5rem;
